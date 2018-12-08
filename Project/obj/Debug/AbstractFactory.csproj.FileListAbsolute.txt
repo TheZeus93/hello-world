@@ -1,0 +1,6 @@
+C:\Users\theze\Desktop\Progetti\VisualStudio\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\theze\Desktop\Progetti\VisualStudio\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\theze\Desktop\Progetti\VisualStudio\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache
+C:\Users\theze\Desktop\Progetti\VisualStudio\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\theze\Desktop\Progetti\VisualStudio\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\theze\Desktop\Progetti\VisualStudio\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
